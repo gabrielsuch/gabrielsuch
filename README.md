@@ -1,10 +1,13 @@
+#
+
 <div>
-  <a href="https://github.com/gabrielsuch"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsuch&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuch&layout=compact&theme=dark"/>
 </div>
 
-<div display="flex">
+#
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=80px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=80px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=80px/>
@@ -20,3 +23,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=80px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=80px/>
 </div>
+
+#
