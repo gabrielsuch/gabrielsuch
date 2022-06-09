@@ -28,7 +28,7 @@
 #
 
 <div>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/gabriel-such-5a8881231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
