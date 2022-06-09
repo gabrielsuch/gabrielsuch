@@ -31,5 +31,5 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://youtube.com" target="_blank">Teste</a>
+  <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 </div>
