@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsuch&layout=compact&theme=dark"/>
 </div>
 
-## Front-end
+## <i>Front-end</i>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=60px height=60px/>
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=60px height=60px/>
 </div>
 
-## Back-end
+## <i>Back-end</i>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=60px height=60px/>
